@@ -1,0 +1,63 @@
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe.config
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.exe
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\Receive.pdb
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.exe
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.pdb
+d:\我的文档\documents\visual studio 2015\Projects\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+E:\c-projects\Receive\Receive\bin\Debug\Receive.exe.config
+E:\c-projects\Receive\Receive\obj\Debug\Receive.exe
+E:\c-projects\Receive\Receive\obj\Debug\Receive.pdb
+E:\c-projects\Receive\Receive\bin\Debug\Receive.exe
+E:\c-projects\Receive\Receive\bin\Debug\Receive.pdb
+E:\c-projects\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\csharp\Receive\Receive\bin\Debug\Receive.exe.config
+E:\csharp\Receive\Receive\obj\Debug\Receive.exe
+E:\csharp\Receive\Receive\obj\Debug\Receive.pdb
+E:\csharp\Receive\Receive\bin\Debug\Receive.exe
+E:\csharp\Receive\Receive\bin\Debug\Receive.pdb
+E:\csharp\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\csharp\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+E:\c-projects\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+E:\vsworkspace\Receive\Receive\bin\Debug\Receive.exe.config
+E:\vsworkspace\Receive\Receive\obj\Debug\Receive.exe
+E:\vsworkspace\Receive\Receive\obj\Debug\Receive.pdb
+E:\vsworkspace\Receive\Receive\bin\Debug\Receive.exe
+E:\vsworkspace\Receive\Receive\bin\Debug\Receive.pdb
+E:\vsworkspace\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\vsworkspace\Receive\Receive\bin\Debug\log4net.dll
+E:\vsworkspace\Receive\Receive\bin\Debug\log4net.xml
+E:\vsworkspace\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+E:\vsworkspace\Receive\Receive\Receive\bin\Debug\Receive.exe.config
+E:\vsworkspace\Receive\Receive\Receive\obj\Debug\Receive.exe
+E:\vsworkspace\Receive\Receive\Receive\obj\Debug\Receive.pdb
+E:\vsworkspace\Receive\Receive\Receive\bin\Debug\Receive.exe
+E:\vsworkspace\Receive\Receive\Receive\bin\Debug\Receive.pdb
+E:\vsworkspace\Receive\Receive\Receive\bin\Debug\log4net.dll
+E:\vsworkspace\Receive\Receive\Receive\bin\Debug\log4net.xml
+E:\vsworkspace\Receive\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+E:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.exe.config
+E:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.exe
+E:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.pdb
+E:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.exe
+E:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.pdb
+E:\vsworkspace\console\Receive\Receive\bin\Debug\log4net.dll
+E:\vsworkspace\console\Receive\Receive\bin\Debug\log4net.xml
+E:\vsworkspace\console\Receive\Receive\bin\Debug\EasyNetQ.dll
+E:\vsworkspace\console\Receive\Receive\bin\Debug\Newtonsoft.Json.dll
+E:\vsworkspace\console\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+E:\vsworkspace\console\Receive\Receive\bin\Debug\Newtonsoft.Json.xml
+E:\vsworkspace\console\Receive\Receive\bin\Debug\RabbitMQ.Client.xml
+E:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache
+D:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.exe.config
+D:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.exe
+D:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.pdb
+D:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.exe
+D:\vsworkspace\console\Receive\Receive\bin\Debug\Receive.pdb
+D:\vsworkspace\console\Receive\Receive\bin\Debug\log4net.dll
+D:\vsworkspace\console\Receive\Receive\bin\Debug\Newtonsoft.Json.dll
+D:\vsworkspace\console\Receive\Receive\bin\Debug\RabbitMQ.Client.dll
+D:\vsworkspace\console\Receive\Receive\bin\Debug\log4net.xml
+D:\vsworkspace\console\Receive\Receive\bin\Debug\Newtonsoft.Json.xml
+D:\vsworkspace\console\Receive\Receive\bin\Debug\RabbitMQ.Client.xml
+D:\vsworkspace\console\Receive\Receive\obj\Debug\Receive.csprojResolveAssemblyReference.cache

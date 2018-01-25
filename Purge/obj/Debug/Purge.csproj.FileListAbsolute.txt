@@ -1,0 +1,6 @@
+D:\vsworkspace\console\Purge_Queues\Purge\bin\Debug\Receive.exe.config
+D:\vsworkspace\console\Purge_Queues\Purge\obj\Debug\Receive.exe
+D:\vsworkspace\console\Purge_Queues\Purge\obj\Debug\Receive.pdb
+D:\vsworkspace\console\Purge_Queues\Purge\bin\Debug\Receive.exe
+D:\vsworkspace\console\Purge_Queues\Purge\bin\Debug\Receive.pdb
+D:\vsworkspace\console\Purge_Queues\Purge\obj\Debug\Purge.csprojResolveAssemblyReference.cache
